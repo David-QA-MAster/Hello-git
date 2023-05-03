@@ -1,2 +1,4 @@
 # Hello-git
-Meu Primeiro Repositótio GitHub
+Meu Primeiro Repository GitHub
+
+### Programador David 
